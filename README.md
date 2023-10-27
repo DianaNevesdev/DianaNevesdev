@@ -7,8 +7,9 @@ Quando não estou codificando, gosto de aproveita  a familia e  fazer bolos de f
 
 
 
- TECNOLOGIA
-/ MYSQL /  JS / NODE JS / JQUERY / HTML / CSS /  / BOOSTRAP / LARAVEL / GITHUB  / APACHE  
+ TECNOLOGIA💻
+ 
+ MYSQL /  JS / NODE JS / JQUERY / HTML / CSS /  / BOOSTRAP / LARAVEL / GITHUB  / APACHE  
 
 LEMA
 ” A arte de programar consiste em organizar e dominar a complexidade. “
